@@ -5,7 +5,7 @@
 
 >The Perfect Visual Studio theme for late night coding sessions.
 
-![Default image](assets\images\default.jpeg)
+<img src="https://github.com/thekuldeeprawat/deepsea/blob/master/assets/images/commandPalette.jpeg">
 
 ![Panel Terminal image](assets\images\panelTerminal.jpeg)
 
