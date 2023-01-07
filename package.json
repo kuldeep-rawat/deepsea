@@ -1,0 +1,29 @@
+{
+  "name": "deepsea",
+  "displayName": "DeepSea",
+  "description": "A Perfect Visual Studio Code theme for late night coding sessions.",
+  "version": "0.0.1",
+  "publisher": "KuldeepRawat",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "keywords": [
+    "theme",
+    "deepsea",
+    "Vs code dark theme",
+    "dark theme",
+    "Deep Sea VS code theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DeepSea",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DeepSea-color-theme.json"
+      }
+    ]
+  }
+}
