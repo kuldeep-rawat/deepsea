@@ -2,7 +2,7 @@
   "name": "deepsea",
   "displayName": "DeepSea",
   "description": "A Perfect Visual Studio Code theme for late night coding sessions.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "KuldeepRawat",
   "engines": {
     "vscode": "^1.74.0"
