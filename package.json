@@ -17,6 +17,11 @@
   "categories": [
     "Themes"
   ],
+  "icon": "assets/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thekuldeeprawat/deepsea"
+  },
   "contributes": {
     "themes": [
       {
