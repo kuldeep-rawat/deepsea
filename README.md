@@ -18,6 +18,6 @@
 <center>As a developer, Deepsea knows the importance of a theme that is functional and easy on the eyes during those marathon coding sessions. Deepsea's theme is designed specifically with late night coding in mind, catering to the needs of developers like themselves. Deepsea let you stay focused and productive, even during the late hours.</center>
 
 ## License
-[MIT License](https://github.com/)  © DeepSea Theme
+[MIT License](https://github.com/thekuldeeprawat/deepsea/blob/master/LICENSE.txt)  © DeepSea Theme
 
 **<center>Designed by [Kuldeep Rawat](https://www.linkedin.com/in/thekuldeeprawat/) with ❤️.</center>**
